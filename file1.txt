@@ -2,3 +2,4 @@ data in file 1
 is now appended
 
 changes made in desktop
+line 2 added
