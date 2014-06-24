@@ -2,8 +2,6 @@ data in file 1
 is now appended
 
 changes made in desktop
-<<<<<<< .merge_file_a01924
+
 line 2 added
-=======
 line 1 added
->>>>>>> .merge_file_a06332
